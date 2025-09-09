@@ -10,4 +10,7 @@ Also, you can use diferent trademarks of printers while it is suitable with twai
 ![Clic on Scan button](twainscan.jpg)
 
 3. Setup the scanner as you need it
+
+4. Select any project as default and test that.
+
 ![Setup scanner](selectanyprojecttwainorwia.jpg)
